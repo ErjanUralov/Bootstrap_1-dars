@@ -1,0 +1,16 @@
+.col-md-8{
+    width: 60%;
+    background-color: #1f3b56;
+    color: white;
+}
+.col-md-4{
+    width: 40%;
+    background-color: #1f3b56;
+    text-align: center;
+}
+.btn-group{
+    margin-top: 10px;
+}
+.table{
+    margin-top: -50px;
+}
